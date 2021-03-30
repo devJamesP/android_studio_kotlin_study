@@ -1,0 +1,81 @@
+
+// 외부 라이브러리 플러그 인
+plugins {
+    // 기존
+    id 'com.android.application'
+    id 'kotlin-android'
+
+//    // Realm db 추가
+//    apply plugin: 'kotlin-kapt'
+//    apply plugin: 'realm-android'
+
+}
+
+android {
+    // sdk=API 버전
+    compileSdkVersion 30
+    defaultConfig {
+        // 애플리케이션 고유 Id
+        applicationId "com.hellow.essential_android"
+
+        // sdk 최소 버전
+        minSdkVersion 23
+
+        // 타겟 sdk 버전
+        targetSdkVersion 30
+
+        // 버전 업그레이드 시 버전 코드와 이름이 올라감
+        versionCode 1
+        versionName "1.0"
+
+        // 테스트 코드를 실행 할 수 있는 러너
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    // 릴리즈는 배포할 버전으로 뷜드
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    kotlinOptions {
+        jvmTarget = '1.8'
+     }
+}
+
+//realm {
+//    syncEnabled = true
+//}
+
+// 현재 안드로이드 프로젝트에서 사용하고있는 외부 라이브러리
+dependencies {
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+    implementation 'androidx.core:core-ktx:1.3.2'
+    implementation 'androidx.appcompat:appcompat:1.2.0'
+    implementation 'com.google.android.material:material:1.3.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
+    testImplementation 'junit:junit:4.+'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.2'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+
+    implementation "androidx.recyclerview:recyclerview:1.1.0"
+    implementation 'com.google.android.material:material:1.1.0'
+
+
+    // Using Glide Lib
+    implementation 'com.github.bumptech.glide:glide:4.11.0'
+    // Skip this if you don't want to use integration libraries or configure Glide.
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.11.0'
+
+    // json parsing
+    implementation 'com.google.code.gson:gson:2.8.5'
+
+    // retrofit
+    implementation 'com.squareup.retrofit2:retrofit:2.4.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.4.0'
+}
