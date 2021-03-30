@@ -5,6 +5,7 @@ this is an android_essential_study file
 
 ### 강의를 토대로 작성한 기초 프로젝트들(일부)입니다.
 
+# Android_basic_with_kotlin
 -------------------
 
 1. 액티비티
@@ -51,3 +52,6 @@ this is an android_essential_study file
 
 
 ---
+
+#Thirty_Project_with_kotlin
+------------
