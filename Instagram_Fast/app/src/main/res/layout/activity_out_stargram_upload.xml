@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".OutStargramUploadActivity">
+
+    <EditText
+        android:id="@+id/content_input"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:hint="내용을 작성해주세요"/>
+
+    <TextView
+        android:layout_marginBottom="16dp"
+        android:layout_centerInParent="true"
+        android:id="@+id/viewPictures"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="40dp"
+        android:background="#f12948"
+        android:text="사진 선택"/>
+
+    <TextView
+        android:layout_centerInParent="true"
+        android:id="@+id/upload_data"
+        android:layout_below="@id/viewPictures"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="40dp"
+        android:background="#f12948"
+        android:text="업로드"/>
+
+
+</RelativeLayout>
