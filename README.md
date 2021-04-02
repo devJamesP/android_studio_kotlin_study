@@ -38,10 +38,25 @@ this is an android_essential_study file
 
 ---
 
-블로그 : <https://mrdevelop.tistory.com/>
+# Thirty_Project_with_kotlin
+
+------------
+
+
+# TodoList
+
+- app 디렉터리 내에 google-services.json파일을 추가하세요.(add google-services.json)
+
+
+## <To do list>
+- List add, delete, update function
+- FireBase integration
+- App distribution
+
+------------
+
 
 
 ---
 
-#Thirty_Project_with_kotlin
-------------
+블로그 : <https://mrdevelop.tistory.com/>
