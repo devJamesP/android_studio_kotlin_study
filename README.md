@@ -39,8 +39,11 @@ this is an android_essential_study file
 ---
 
 # Thirty_Project_with_kotlin
-
 ------------
+- BMICalculationActivity (BMI체중계산기)
+- LottoDrawingActivity (로또추첨기)
+
+---
 
 
 # TodoList
