@@ -21,6 +21,9 @@
  - 수동선택한 번호를 제외한 나머지 번호를 랜덤 표시
   
   ---
+  
+### ScreenShot
+---
 
 <p align="center">
   <img src="../../android_Thirty_Project/images/LOTTO_FullNumber.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
