@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">LottoDrawingActivity</string>
+    <string name="btnAddText">번호 추가하기</string>
+    <string name="btnClearText">초기화</string>
+    <string name="btnRunText">자동 생성 시작</string>
 </resources>
