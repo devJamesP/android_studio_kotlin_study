@@ -25,3 +25,11 @@
   30 < weight <= 35 : 중정도 비만
   
   35 < weight : 고도 비만
+  
+  ---
+
+<p align="center">
+  <img src="../../android_Thirty_Project/images/BMI_MainActivity.PNG" width="40%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../../android_Thirty_Project/images/BMI_ResultActivity.PNG" width="40%" alt="1.png">&nbsp;&nbsp;&nbsp;
+</p>
+
