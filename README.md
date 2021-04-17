@@ -42,6 +42,7 @@ this is an android_essential_study file
 ------------
 - BMICalculationActivity (BMI체중계산기)
 - LottoDrawingActivity (로또추첨기)
+- SecretDiaryActivity (비밀디이어리)
 
 ---
 
