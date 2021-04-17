@@ -23,8 +23,8 @@
 ---
 
 <p align="center">
-  <img src="../../android_Thirty_Project/images/SecretDiaryActivity_Main.PNG" width="25%" alt="1.png">&nbsp;&nbsp;&nbsp;
-  <img src="../../android_Thirty_Project/images/SecretDiaryActivity_PasswordError.PNG" width="25%" alt="1.png">&nbsp;&nbsp;&nbsp;
-  <img src="../../android_Thirty_Project/images/SecretDiaryActivity_PasswordModifyMode.PNG" width="25%" alt="1.png">&nbsp;&nbsp;&nbsp;
-  <img src="../../android_Thirty_Project/images/SecretDiaryActivity_DiaryMode.PNG" width="25%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../../android_Thirty_Project/images/SecretDiaryActivity_Main.PNG" width="20%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../../android_Thirty_Project/images/SecretDiaryActivity_PasswordError.PNG" width="20%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../../android_Thirty_Project/images/SecretDiaryActivity_PasswordModifyMode.PNG" width="20%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../../android_Thirty_Project/images/SecretDiaryActivity_DiaryMode.PNG" width="20%" alt="1.png">&nbsp;&nbsp;&nbsp;
 </p>
