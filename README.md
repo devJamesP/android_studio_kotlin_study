@@ -43,7 +43,9 @@ this is an android_essential_study file
 - BMICalculationActivity (BMI체중계산기)
 - LottoDrawingActivity (로또추첨기)
 - SecretDiaryActivity (비밀디이어리)
+- CalculationActivity (계산기)
 - DigitalFrameActivity (전자액자)
+- FomodoroTimerActivity (뽀모도로 타이머)
 
 ---
 
