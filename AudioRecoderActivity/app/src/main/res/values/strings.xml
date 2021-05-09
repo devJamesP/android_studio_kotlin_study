@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AudioRecoderActivity</string>
+    <string name="reset">RESET</string>
+    <string name="textTIme">00:00</string>
+</resources>
