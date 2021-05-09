@@ -22,11 +22,11 @@
 ---
 
 <p align="center">
-  <img src="../../android_Thirty_Project/images/AudioRecoder_Activity_RECORD_BEFORE.PNG" width="40%" alt="1.png">&nbsp;&nbsp;&nbsp;
-  <img src="../../android_Thirty_Project/images/AudioRecoder_Activity_ON_RECORD.PNG" width="40%" alt="1.png">&nbsp;&nbsp;&nbsp;
-  <img src="../../android_Thirty_Project/images/AudioRecoder_Activity_RECORD_PLAY.PNG" width="40%" alt="1.png">&nbsp;&nbsp;&nbsp;
-  <img src="../../android_Thirty_Project/images/AudioRecoder_Activity_RECORD_RESET.PNG" width="40%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../../android_Thirty_Project/images/AudioRecoder_Activity_RECORD_BEFORE.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../../android_Thirty_Project/images/AudioRecoder_Activity_ON_RECORD.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../../android_Thirty_Project/images/AudioRecoder_Activity_RECORD_PLAY.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
   <img src="../../android_Thirty_Project/images/AudioRecoder_Activity_RECORD_STOP.PNG" width="40%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../../android_Thirty_Project/images/AudioRecoder_Activity_RECORD_RESET.PNG" width="40%" alt="1.png">&nbsp;&nbsp;&nbsp;
 </p>
 
 
