@@ -46,6 +46,12 @@ this is an android_essential_study file
 - CalculationActivity (계산기)
 - DigitalFrameActivity (전자액자)
 - FomodoroTimerActivity (뽀모도로 타이머)
+- SimpleWebBrowser (간단한 웹 브라우저)
+- AudioRecoderActivity (오디오 녹음기)
+- PushMessageActivity (푸시 메시지 알리미)
+- QuoteOfTheDay (오늘의 명언)
+- AlarmApplicationActivity (알람 앱)
+
 
 ---
 
