@@ -23,19 +23,18 @@ class MainActivity : AppCompatActivity() {
 
         val model = fetchDataFromSharedPreferences()
         renderView(model)
-
     }
 
     private fun initOnOffButton() {
         val onOffButton = findViewById<SwitchMaterial>(R.id.onOffButton)
+
         onOffButton.setOnClickListener {
-            Log.d("testt", "clicked!")
             val model = it.tag as? AlarmDisplayModel ?: return@setOnClickListener
             val newModel = saveAlarmModel(model.hour, model.minute, model.onOff.not())
             renderView(newModel)
-
             if (newModel.onOff) {
                 // 켜진 경우 -> 알람을 등록
+                    Log.d("testt", "알람이 등록!!")
                 val calendar = Calendar.getInstance().apply {
                     set(Calendar.HOUR_OF_DAY, newModel.hour)
                     set(Calendar.MINUTE, newModel.minute)
@@ -56,8 +55,8 @@ class MainActivity : AppCompatActivity() {
                     AlarmManager.INTERVAL_DAY,
                     pendingIntent
                 )
-
             } else {
+                Log.d("testt", "알람이 해제!!")
                 cancelAlarm()
             }
         }
@@ -66,18 +65,15 @@ class MainActivity : AppCompatActivity() {
     private fun initChangeAlarmTimeButton() {
         val changeAlarmButton = findViewById<Button>(R.id.changeAlarmTimeButton)
         changeAlarmButton.setOnClickListener {
-
             val calendar = Calendar.getInstance()
             TimePickerDialog(this, { picker, hour, minute ->
 
-                val model = saveAlarmModel(hour, minute, false)
+                val model = saveAlarmModel(hour, minute, true)
                 renderView(model)
                 cancelAlarm()
 
             }, calendar.get(Calendar.HOUR_OF_DAY), calendar.get(Calendar.MINUTE), false).show()
-
         }
-
     }
 
     private fun saveAlarmModel(
@@ -143,6 +139,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         findViewById<SwitchMaterial>(R.id.onOffButton).apply {
+            isChecked = model.onOff
             text = model.onOffText
             tag = model
         }
