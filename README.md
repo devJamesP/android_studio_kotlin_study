@@ -51,7 +51,10 @@ this is an android_essential_study file
 - PushMessageActivity (푸시 메시지 알리미)
 - QuoteOfTheDay (오늘의 명언)
 - AlarmApplicationActivity (알람 앱)
-
+- TinderActivity (틴더 앱)
+- TradingActivity (중고거래 앱)
+- BookReviewActivity (도서 리뷰 앱)
+- AirbnbActivity (에어비엔비 앱)
 
 ---
 
