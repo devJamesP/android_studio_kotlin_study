@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.devjamesp.youtubeactivity.CustomMotionLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:layoutDescription="@xml/fragment_player_scene"
+    android:id="@+id/playerMotionLayout">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/mainContainerLayout"
+        android:layout_width="0dp"
+        android:layout_height="250dp"
+        android:background="@color/g_aaaaaa"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.google.android.exoplayer2.ui.PlayerView
+        app:resize_mode="fill"
+        android:id="@+id/playerView"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="@id/mainContainerLayout"
+        app:layout_constraintStart_toStartOf="@id/mainContainerLayout"
+        app:layout_constraintTop_toTopOf="@id/mainContainerLayout"
+        app:layout_constraintEnd_toStartOf="@id/bottomTitleTextView"/>
+
+    <ImageView
+        android:id="@+id/bottomPlayerControlButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="@id/mainContainerLayout"
+        app:layout_constraintEnd_toEndOf="@id/mainContainerLayout"
+        app:layout_constraintTop_toTopOf="@id/mainContainerLayout"
+        android:src="@drawable/exo_controls_play"
+        app:layout_constraintStart_toEndOf="@id/bottomTitleTextView"/>
+
+
+    <TextView
+        android:id="@+id/bottomTitleTextView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="12dp"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:singleLine="true"
+        tools:text="시청 할 동영상을 선택해 주세요."
+        app:layout_constraintBottom_toBottomOf="@id/bottomPlayerControlButton"
+        app:layout_constraintEnd_toStartOf="@id/bottomPlayerControlButton"
+        app:layout_constraintStart_toEndOf="@id/playerView"
+        android:textColor="@color/black"
+        app:layout_constraintTop_toTopOf="@id/bottomPlayerControlButton" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/fragmentRecyclerView"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:padding="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/mainContainerLayout"
+        android:clipToPadding="false"
+        android:nestedScrollingEnabled="false" />
+
+
+</com.devjamesp.youtubeactivity.CustomMotionLayout>
