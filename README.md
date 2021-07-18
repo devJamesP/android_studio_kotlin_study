@@ -55,6 +55,7 @@ this is an android_essential_study file
 - TradingActivity (중고거래 앱)
 - BookReviewActivity (도서 리뷰 앱)
 - AirbnbActivity (에어비엔비 앱)
+- YouTubeActivity (유튜브 앱)
 
 ---
 
