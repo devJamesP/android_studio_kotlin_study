@@ -1,0 +1,70 @@
+{
+    "musics": [
+        {
+            "track" : "Bring Me The Light",
+            "streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/977/bring-me-the-light-1626343234-EKGZQcW4U2.mp3",
+            "artist" : "Mara Necia, T & Sugah",
+            "coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/977/100x100/bring-me-the-light-1626343231-bEnFjASbN5.jpg"
+        },
+        {
+            "track" : "Throne (Lost Identities Remix)",
+            "streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/978/throne-lost-identities-remix-1626440435-Ptftvq3VPE.mp3",
+            "artist" : "Lost Identites, Rival",
+            "coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/978/100x100/throne-lost-identities-remix-1626440432-uuKxda3Brb.jpg"
+        },
+        {
+            "track" : "Like This",
+            "streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/973/like-this-1625828434-f8juDYkBsh.mp3",
+            "artist" : "Magnus",
+            "coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/973/100x100/like-this-1625828429-A8ElGmWROT.jpg"
+        },
+        {
+            "track" : "Daydream",
+            "streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/972/daydream-1625749236-Tum3XCVtRr.mp3",
+            "artist" : "Romi, Cream Blade",
+            "coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/972/100x100/daydream-1625749232-JZfwnSfGyq.jpg"
+        },
+        {
+            "track" : "Bittersweet",
+            "streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/970/bittersweet-1625248833-ZV2HBq4Lr3.mp3",
+            "artist" : "Roses, Time To Talk",
+            "coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/970/100x100/bittersweet-1625248829-zsyR8EGzX9.png"
+        },
+        {
+            "track" : "For Good",
+            "streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/971/for-good-1625248844-ZCNGyA4vEW.mp3",
+            "artist" : "Clarx, Guy Arthur",
+            "coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/971/100x100/for-good-1625248840-qTvWUqB94W.jpg"
+        },
+        {
+            "track" : "Chasing Stars",
+            "streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/969/chasing-stars-1624964433-hg66qg0Tlv.mp3",
+            "artist" : "STAR SEED",
+            "coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/969/100x100/chasing-stars-1624964430-9z451Hiqm3.jpg"
+        },
+        {
+            "track" : "Talk Is Cheap",
+            "streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/967/talk-is-cheap-1624636835-Z5Mlt4YdD9.mp3",
+            "artist" : "VinDon, Magnus",
+            "coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/967/100x100/talk-is-cheap-1624636831-KD0i3ASa2O.jpg"
+        },
+        {
+            "track" : "Feelings",
+            "streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/968/feelings-1624636846-EhVGAuxtSW.mp3",
+            "artist" : "Azertion, Diviners",
+            "coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/968/100x100/feelings-1624636843-jwJFZuXA5i.jpg"
+        },
+        {
+            "track" : "Band-Aid",
+            "streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/966/1624533627_7Io83Xo1Eh_Halvorsen---Band-Aid-NCS-Release.mp3",
+            "artist" : "Halvorsen",
+            "coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/966/100x100/1624533625_pJOE7fq9B7_Artwork.png"
+        },
+        {
+            "track" : "Biology",
+            "streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/964/biology-1624035636-7bAv4E2brA.mp3",
+            "artist" : "Gameboy Tetris, nublu, Cartoon",
+            "coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/964/100x100/biology-1624035630-RGVPK9iy6a.jpg"
+        }
+    ]
+}
