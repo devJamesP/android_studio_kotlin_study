@@ -24,10 +24,5 @@
   <img src="../../android_Thirty_Project/images/OTT_1.PNG" width="25%" alt="1.png">&nbsp;&nbsp;&nbsp;
   <img src="../../android_Thirty_Project/images/OTT_2.PNG" width="25%" alt="1.png">&nbsp;&nbsp;&nbsp;
   <img src="../../android_Thirty_Project/images/OTT_3.PNG" width="25%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../../android_Thirty_Project/images/OTT_Test.gif" width="70%" alt="1.gif">&nbsp;&nbsp;&nbsp;
 </p>
-
-#### 결과 화면
-
-| 결과 화면 |
-| -------------------------------------- |
-| ![결과 화면]("../../android_Thirty_Project/images/Android Emulator - Pixel_XL_API_30_5554 2021-07-29 오전 9_29_08_Trim") |
