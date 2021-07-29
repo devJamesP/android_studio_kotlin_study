@@ -58,6 +58,7 @@ this is an android_essential_study file
 - YouTubeActivity (유튜브 앱)
 - MusicStreaming (뮤직 스트리밍 앱)
 - LocationSearchMapActivity (위치 검색 앱)
+- OTT APP (OTT 앱)
 
 ---
 
