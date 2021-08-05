@@ -22,5 +22,5 @@
 ---
 
 <p align="center">
-  <img src="../../android_Thirty_Project/images/ImageSearchApp_demo.gif" width="70%" alt="1.gif">&nbsp;&nbsp;&nbsp;
+  <img src="../images/ImageSearchApp_demo.gif" width="50%" alt="1.gif">&nbsp;&nbsp;&nbsp;
 </p>
