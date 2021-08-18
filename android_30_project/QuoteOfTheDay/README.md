@@ -26,7 +26,7 @@
 ---
 
 <p align="center">
-  <img src="../../android_Thirty_Project/images/QuoteOfDayActivity_Main.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
-  <img src="../../android_Thirty_Project/images/QuoteOfDayActivity_Sub1.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
-  <img src="../../android_Thirty_Project/images/QuoteOfDayActivity_Sub2.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/QuoteOfDayActivity_Main.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/QuoteOfDayActivity_Sub1.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/QuoteOfDayActivity_Sub2.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
 </p>

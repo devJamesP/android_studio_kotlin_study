@@ -31,6 +31,6 @@
 ---
 
 <p align="center">
-  <img src="../../android_Thirty_Project/images/YouTubeActivity_FullDisplay.PNG" width="40%" alt="1.png">&nbsp;&nbsp;&nbsp;
-  <img src="../../android_Thirty_Project/images/YouTubeActivity_SmallDisplay.PNG" width="40%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/YouTubeActivity_FullDisplay.PNG" width="40%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/YouTubeActivity_SmallDisplay.PNG" width="40%" alt="1.png">&nbsp;&nbsp;&nbsp;
 </p>

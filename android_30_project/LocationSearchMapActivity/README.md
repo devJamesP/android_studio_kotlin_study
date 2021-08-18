@@ -27,6 +27,6 @@
 ---
 
 <p align="center">
-  <img src="../../android_Thirty_Project/images/LocationSearchMapActivity_Main.PNG" width="40%" alt="1.png">&nbsp;&nbsp;&nbsp;
-  <img src="../../android_Thirty_Project/images/LocationSearchMapActivity_Map.PNG" width="40%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/LocationSearchMapActivity_Main.PNG" width="40%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/LocationSearchMapActivity_Map.PNG" width="40%" alt="1.png">&nbsp;&nbsp;&nbsp;
 </p>

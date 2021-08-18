@@ -23,7 +23,7 @@
 ---
 
 <p align="center">
-  <img src="../../android_Thirty_Project/images/PushMessageActivity_Main.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
-  <img src="../../android_Thirty_Project/images/PushMessageActivity_PushAlam.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
-  <img src="../../android_Thirty_Project/images/PushMessageActivity_onClick_CustomPushAlam.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/PushMessageActivity_Main.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/PushMessageActivity_PushAlam.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/PushMessageActivity_onClick_CustomPushAlam.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
 </p>

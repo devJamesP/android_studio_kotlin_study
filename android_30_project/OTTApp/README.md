@@ -21,8 +21,8 @@
 ---
 
 <p align="center">
-  <img src="../../android_Thirty_Project/images/OTT_1.PNG" width="25%" alt="1.png">&nbsp;&nbsp;&nbsp;
-  <img src="../../android_Thirty_Project/images/OTT_2.PNG" width="25%" alt="1.png">&nbsp;&nbsp;&nbsp;
-  <img src="../../android_Thirty_Project/images/OTT_3.PNG" width="25%" alt="1.png">&nbsp;&nbsp;&nbsp;
-  <img src="../../android_Thirty_Project/images/OTT_Test.gif" width="70%" alt="1.gif">&nbsp;&nbsp;&nbsp;
+  <img src="../images/OTT_1.PNG" width="25%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/OTT_2.PNG" width="25%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/OTT_3.PNG" width="25%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/OTT_Test.gif" width="70%" alt="1.gif">&nbsp;&nbsp;&nbsp;
 </p>

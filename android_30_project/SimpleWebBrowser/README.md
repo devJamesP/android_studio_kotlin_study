@@ -25,6 +25,6 @@
 ---
 
 <p align="center">
-  <img src="../../android_Thirty_Project/images/SimpleWebBrowser_Home.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
-  <img src="../../android_Thirty_Project/images/SimpleWebBrowser_Move.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/SimpleWebBrowser_Home.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/SimpleWebBrowser_Move.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
 </p>

@@ -22,8 +22,8 @@
 ---
 
 <p align="center">
-  <img src="../../android_Thirty_Project/images/BookReviewActivity_Main.PNG" width="20%" alt="1.png">&nbsp;&nbsp;&nbsp;
-  <img src="../../android_Thirty_Project/images/BookReviewActivity_KeyWordSearch.PNG" width="20%" alt="1.png">&nbsp;&nbsp;&nbsp;
-  <img src="../../android_Thirty_Project/images/BookReviewActivity_Detail.PNG" width="20%" alt="1.png">&nbsp;&nbsp;&nbsp;
-    <img src="../../android_Thirty_Project/images/BookReviewActivity_DetailReview.PNG" width="20%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/BookReviewActivity_Main.PNG" width="20%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/BookReviewActivity_KeyWordSearch.PNG" width="20%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/BookReviewActivity_Detail.PNG" width="20%" alt="1.png">&nbsp;&nbsp;&nbsp;
+    <img src="../images/BookReviewActivity_DetailReview.PNG" width="20%" alt="1.png">&nbsp;&nbsp;&nbsp;
 </p>

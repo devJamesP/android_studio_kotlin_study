@@ -29,8 +29,8 @@
 ---
 
 <p align="center">
-  <img src="../../android_Thirty_Project/images/TradingActivity_Home.PNG" width="20%" alt="1.png">&nbsp;&nbsp;&nbsp;
-  <img src="../../android_Thirty_Project/images/TradingActivity_Login.PNG" width="20%" alt="1.png">&nbsp;&nbsp;&nbsp;
-  <img src="../../android_Thirty_Project/images/TradingActivity_ChatRoomList.PNG" width="20%" alt="1.png">&nbsp;&nbsp;&nbsp;
-    <img src="../../android_Thirty_Project/images/TradingActivity_ChatRoom.PNG" width="20%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/TradingActivity_Home.PNG" width="20%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/TradingActivity_Login.PNG" width="20%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/TradingActivity_ChatRoomList.PNG" width="20%" alt="1.png">&nbsp;&nbsp;&nbsp;
+    <img src="../images/TradingActivity_ChatRoom.PNG" width="20%" alt="1.png">&nbsp;&nbsp;&nbsp;
 </p>

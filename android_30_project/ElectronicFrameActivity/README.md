@@ -23,8 +23,8 @@
 ---
 
 <p align="center">
-  <img src="../../android_Thirty_Project/images/ElectronicFrameActivity_Main.PNG" width="20%" alt="1.png">&nbsp;&nbsp;&nbsp;
-  <img src="../../android_Thirty_Project/images/ElectronicFrameActivity_AddPhoto.PNG" width="20%" alt="1.png">&nbsp;&nbsp;&nbsp;
-  <img src="../../android_Thirty_Project/images/ElectronicFrameActivity_PhotoList.PNG" width="20%" alt="1.png">&nbsp;&nbsp;&nbsp;
-  <img src="../../android_Thirty_Project/images/ElectronicFrameActivity_Frame.PNG" width="20%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/ElectronicFrameActivity_Main.PNG" width="20%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/ElectronicFrameActivity_AddPhoto.PNG" width="20%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/ElectronicFrameActivity_PhotoList.PNG" width="20%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/ElectronicFrameActivity_Frame.PNG" width="20%" alt="1.png">&nbsp;&nbsp;&nbsp;
 </p>

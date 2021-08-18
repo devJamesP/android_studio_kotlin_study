@@ -26,7 +26,7 @@
 ---
 
 <p align="center">
-  <img src="../../android_Thirty_Project/images/LOTTO_FullNumber.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
-  <img src="../../android_Thirty_Project/images/LOTTO_PartNumber.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
-  <img src="../../android_Thirty_Project/images/LOTTO_ClearNumber.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/LOTTO_FullNumber.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/LOTTO_PartNumber.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/LOTTO_ClearNumber.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
 </p>

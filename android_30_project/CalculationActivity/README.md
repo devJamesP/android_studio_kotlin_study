@@ -25,8 +25,8 @@
 ---
 
 <p align="center">
-  <img src="../../android_Thirty_Project/images/CalculationActivity_Main.PNG" width="20%" alt="1.png">&nbsp;&nbsp;&nbsp;
-  <img src="../../android_Thirty_Project/images/CalculationActivity_Result.PNG" width="20%" alt="1.png">&nbsp;&nbsp;&nbsp;
-  <img src="../../android_Thirty_Project/images/CalculationActivity_Calculate.PNG" width="20%" alt="1.png">&nbsp;&nbsp;&nbsp;
-  <img src="../../android_Thirty_Project/images/CalculationActivity_History.PNG" width="20%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/CalculationActivity_Main.PNG" width="20%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/CalculationActivity_Result.PNG" width="20%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/CalculationActivity_Calculate.PNG" width="20%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/CalculationActivity_History.PNG" width="20%" alt="1.png">&nbsp;&nbsp;&nbsp;
 </p>

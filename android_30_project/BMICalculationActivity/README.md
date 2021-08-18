@@ -29,7 +29,7 @@
   ---
 
 <p align="center">
-  <img src="../../android_Thirty_Project/images/BMI_MainActivity.PNG" width="40%" alt="1.png">&nbsp;&nbsp;&nbsp;
-  <img src="../../android_Thirty_Project/images/BMI_ResultActivity.PNG" width="40%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/BMI_MainActivity.PNG" width="40%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/BMI_ResultActivity.PNG" width="40%" alt="1.png">&nbsp;&nbsp;&nbsp;
 </p>
 

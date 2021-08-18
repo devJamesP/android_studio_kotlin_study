@@ -22,7 +22,7 @@
 ---
 
 <p align="center">
-  <img src="../../android_Thirty_Project/images/TinderActivity_Like.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
-  <img src="../../android_Thirty_Project/images/TinderActivity_Login.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
-  <img src="../../android_Thirty_Project/images/TinderActivity_MatchLikeList.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/TinderActivity_Like.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/TinderActivity_Login.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/TinderActivity_MatchLikeList.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
 </p>
