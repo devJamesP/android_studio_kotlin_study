@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    tools:background="@color/gray"
+    tools:layout_height="50dp"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        tools:text="아황산가스"
+        android:id="@+id/labelTextView"/>
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/gradeTextView"
+        android:layout_weight="1"
+        tools:text="매우 나쁨😭"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:gravity="end"/>
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:id="@+id/valueTextView"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        tools:text="130 ppm"
+        android:gravity="end"/>
+
+
+
+
+
+
+</LinearLayout>
