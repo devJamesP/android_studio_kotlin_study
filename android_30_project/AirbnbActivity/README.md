@@ -26,6 +26,6 @@
 ---
 
 <p align="center">
-  <img src="../../android_Thirty_Project/images/AirbnbActivity_Main.PNG" width="40%" alt="1.png">&nbsp;&nbsp;&nbsp;
-  <img src="../../android_Thirty_Project/images/AirbnbActivity_HouseList.PNG" width="40%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/AirbnbActivity_Main.PNG" width="40%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/AirbnbActivity_HouseList.PNG" width="40%" alt="1.png">&nbsp;&nbsp;&nbsp;
 </p>
