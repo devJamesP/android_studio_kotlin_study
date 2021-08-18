@@ -20,5 +20,5 @@
 ---
 
 <p align="center">
-  <img src="../images/HomeTownFineDustApp.PNG" width="50%" alt="앱 테스트 시연영상">&nbsp;&nbsp;&nbsp;
+  <img src="../images/HomeTownFineDustApp.gif" width="50%" alt="앱 테스트 시연영상">&nbsp;&nbsp;&nbsp;
 </p>
