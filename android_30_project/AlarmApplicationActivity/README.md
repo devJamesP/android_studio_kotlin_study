@@ -35,7 +35,7 @@
 ---
 
 <p align="center">
-  <img src="../../android_Thirty_Project/images/AlarmActivity_Main.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
-  <img src="../../android_Thirty_Project/images/AlarmActivity_Picker.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
-  <img src="../../android_Thirty_Project/images/AlarmActivity_PushMessage.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/AlarmActivity_Main.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/AlarmActivity_Picker.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
+  <img src="../images/AlarmActivity_PushMessage.PNG" width="30%" alt="1.png">&nbsp;&nbsp;&nbsp;
 </p>
