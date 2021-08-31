@@ -1,0 +1,47 @@
+buildscript {
+    ext.koin_version = "3.1.2"
+
+    allprojects {
+        repositories {
+            mavenCentral()
+        }
+    }
+}
+
+plugins {
+    id 'java'
+    id 'org.jetbrains.kotlin.jvm' version '1.5.21'
+}
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+dependencies {
+
+    implementation "org.jetbrains.kotlin:kotlin-stdlib"
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
+
+    // Koin for Kotlin apps
+    implementation "io.insert-koin:koin-core:$koin_version"
+    // Testing
+    testImplementation "io.insert-koin:koin-test:$koin_version"
+
+    // Koin for JUnit 4
+    testImplementation "io.insert-koin:koin-test-junit4:$koin_version"
+    // Koin for JUnit 5
+    testImplementation "io.insert-koin:koin-test-junit5:$koin_version"
+
+    // Koin for Ktor
+    implementation "io.insert-koin:koin-ktor:$koin_version"
+    // SLF4J Logger
+    implementation "io.insert-koin:koin-logger-slf4j:$koin_version"
+}
+
+test {
+    useJUnitPlatform()
+}
+
+
+
+
+

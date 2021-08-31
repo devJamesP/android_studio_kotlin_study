@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="examples.DeserializeInterfaceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-18T10:11:13" hostname="DESKTOP-9K6ME48" time="0.539">
+  <properties/>
+  <testcase name="test2" classname="examples.DeserializeInterfaceTest" time="0.539"/>
+  <system-out><![CDATA[Person(name=Alice, company=CompanyImpl(name=JetBrains))
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
