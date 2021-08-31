@@ -1,0 +1,25 @@
+# Thirty_Project_with_kotlin
+------------
+- BMICalculationActivity (BMI체중계산기)
+- LottoDrawingActivity (로또추첨기)
+- SecretDiaryActivity (비밀디이어리)
+- CalculationActivity (계산기)
+- DigitalFrameActivity (전자액자)
+- FomodoroTimerActivity (뽀모도로 타이머)
+- SimpleWebBrowser (간단한 웹 브라우저)
+- AudioRecoderActivity (오디오 녹음기)
+- PushMessageActivity (푸시 메시지 알리미)
+- QuoteOfTheDay (오늘의 명언)
+- AlarmApplicationActivity (알람 앱)
+- TinderActivity (틴더 앱)
+- TradingActivity (중고거래 앱)
+- BookReviewActivity (도서 리뷰 앱)
+- AirbnbActivity (에어비엔비 앱)
+- YouTubeActivity (유튜브 앱)
+- MusicStreaming (뮤직 스트리밍 앱)
+- LocationSearchMapActivity (위치 검색 앱)
+- OTT APP (OTT 앱)
+- ImageSearchApp (이미지 검색기 앱)
+- HomeTownFineDustApp (우리집 미세먼지(측정) 앱)
+
+---
